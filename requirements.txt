@@ -1,8 +1,0 @@
-numpy
-sklearn
-Tensorflow
-Keras
-pyensemblrest
-ensembl_rest
-seaborn
-matplotlib
