@@ -25,9 +25,9 @@ To achieve this goal, the following tasks were set:
 
 2. Implement deep learning-based approach that employs convolutional neural networks (CNN) architecture for automatic feature extraction and effectively predicts splice sites. 
 
-3.  Evaluate model using the human genome 
+3.  Evaluate model using the human transcrpts
 
-4. Evaluate using other species’ genomes to identify how well a model trained on the human genome can generalize to other species since the objective is to use this model as a first-line annotation tool for newly sequenced genome
+4. Evaluate using other species’ transcrpipts to identify how well a model trained on the human genome can generalize to other species since the objective is to use this model for newly sequenced transcripts
 
 ## 1 Literature review 
 
